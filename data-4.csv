@@ -1,0 +1,701 @@
+College_Name,District,Course,Category,Cutoff,Fees,College_Type
+PSG College of Technology,Coimbatore,EEE,BC,194.5,10700,Government
+Adhiyamaan College,Krishnagiri,EEE,MBC,128.13,99975,Private
+Bannari Amman Institute of Technology,Erode,EEE,ST,126.75,67485,Private
+Kongu Engineering College,Erode,AI & DS,SC,172.84,95000,Private
+Sri Krishna College,Coimbatore,CSE,BCM,183.17,95000,Private
+CIT College,Coimbatore,AI & DS,BCM,166.84,15500,Government
+Muthayammal Engineering College,Namakkal,Mechanical,ST,163.45,63689,Private
+Adhiyamaan College,Krishnagiri,EEE,ST,191.92,101978,Private
+Adhiyamaan College,Krishnagiri,Mechanical,BCM,146.53,58539,Private
+Bannari Amman Institute of Technology,Erode,AI & DS,ST,145.49,140948,Private
+Bannari Amman Institute of Technology,Erode,Civil,MBC,169.71,104040,Private
+Velalar College of Engineering,Erode,ECE,BCM,125.67,88353,Private
+Government College of Engineering,Vellore,CSE,BC,194.5,15500,Government
+Bannari Amman Institute of Technology,Erode,Mechanical,OC,166.18,95000,Private
+AVS Engineering College,Salem,CSE,SC,135.73,119249,Private
+Velalar College of Engineering,Erode,EEE,MBC,168.11,55116,Private
+AVS Engineering College,Salem,EEE,ST,192.22,95000,Private
+CIT College,Coimbatore,EEE,ST,174.98,10251,Government
+AVS Engineering College,Salem,ECE,SC,135.38,144819,Private
+Adhiyamaan College,Krishnagiri,ECE,SC,154.84,131794,Private
+Adhiyamaan College,Krishnagiri,CSE,BC,199.69,95000,Private
+CIT College,Coimbatore,AI & DS,MBC,193.04,12197,Government
+Bannari Amman Institute of Technology,Erode,AI & DS,SC,179.58,95000,Private
+Sri Krishna College,Coimbatore,IT,OC,179.44,95000,Private
+Government College of Engineering,Vellore,ECE,MBC,174.16,11813,Government
+PSG College of Technology,Coimbatore,Biomedical,BCM,162.14,18200,Government
+Velalar College of Engineering,Erode,Civil,ST,130.53,138169,Private
+Muthayammal Engineering College,Namakkal,Civil,SC,167.03,78662,Private
+Sri Krishna College,Coimbatore,ECE,BC,125.97,71715,Private
+Muthayammal Engineering College,Namakkal,Mechanical,BC,174.53,95000,Private
+PSG College of Technology,Coimbatore,Civil,OC,187.24,19617,Government
+Kongu Engineering College,Erode,Civil,MBC,166.41,63948,Private
+PSG College of Technology,Coimbatore,AI & DS,ST,165.2,15500,Government
+Government College of Engineering,Vellore,Mechanical,MBC,194.5,15500,Government
+CIT College,Coimbatore,Biomedical,ST,155.69,15500,Government
+PSG College of Technology,Coimbatore,Biomedical,MBC,194.5,15500,Government
+PSG College of Technology,Coimbatore,AI & DS,SC,185.72,20358,Government
+PSG College of Technology,Coimbatore,Mechanical,BC,194.5,15500,Government
+PSG College of Technology,Coimbatore,IT,MBC,194.5,15500,Government
+Velalar College of Engineering,Erode,Civil,ST,146.18,99793,Private
+AVS Engineering College,Salem,ECE,MBC,199.67,95000,Private
+Velalar College of Engineering,Erode,EEE,BCM,178.28,122647,Private
+Bannari Amman Institute of Technology,Erode,EEE,MBC,178.47,100244,Private
+Muthayammal Engineering College,Namakkal,ECE,BC,162.37,95000,Private
+Bannari Amman Institute of Technology,Erode,Biomedical,BC,188.9,95000,Private
+Government College of Engineering,Tirunelveli,Mechanical,OC,194.5,15500,Government
+Velalar College of Engineering,Erode,ECE,BC,182.23,95000,Private
+Sri Krishna College,Coimbatore,Civil,SC,161.61,95000,Private
+Muthayammal Engineering College,Namakkal,ECE,BCM,179.76,95000,Private
+Adhiyamaan College,Krishnagiri,CSE,ST,177.65,95000,Private
+Bannari Amman Institute of Technology,Erode,Mechanical,ST,128.92,106790,Private
+Bannari Amman Institute of Technology,Erode,EEE,SC,192.27,95000,Private
+PSG College of Technology,Coimbatore,Biomedical,BCM,181.8,15500,Government
+Muthayammal Engineering College,Namakkal,ECE,BCM,180.11,92438,Private
+CIT College,Coimbatore,Mechanical,SC,160,15500,Government
+Velalar College of Engineering,Erode,IT,OC,179.05,95000,Private
+Sri Krishna College,Coimbatore,IT,BCM,160.22,95000,Private
+Muthayammal Engineering College,Namakkal,ECE,OC,174.01,95425,Private
+Sri Krishna College,Coimbatore,Biomedical,BC,154.74,83270,Private
+AVS Engineering College,Salem,Biomedical,MBC,155.32,88336,Private
+Sri Krishna College,Coimbatore,AI & DS,ST,168.8,145667,Private
+AVS Engineering College,Salem,CSE,SC,191.12,95000,Private
+Government College of Engineering,Vellore,CSE,MBC,198.96,18728,Government
+Muthayammal Engineering College,Namakkal,EEE,SC,142.69,75848,Private
+PSG College of Technology,Coimbatore,EEE,SC,179.16,95000,Government
+Muthayammal Engineering College,Namakkal,AI & DS,SC,173.06,21700,Private
+Government College of Engineering,Coimbatore,ECE,ST,165.2,95000,Government
+Government College of Engineering,Tirunelveli,Civil,OC,179.49,91517,Government
+Government College of Engineering,Madurai,IT,BC,181.98,13069,Government
+PSG College of Technology,Coimbatore,Civil,MBC,185.89,99241,Government
+Government College of Engineering,Salem,Civil,ST,167.74,60696,Government
+PSG College of Technology,Coimbatore,Mechanical,MBC,181.33,95000,Government
+AVS Engineering College,Salem,CSE,OC,190.15,95000,Private
+Adhiyamaan College,Krishnagiri,IT,ST,193.3,67928,Private
+Adhiyamaan College,Krishnagiri,CSE,SC,190.62,132046,Private
+Muthayammal Engineering College,Namakkal,Mechanical,BCM,163.06,95000,Private
+CIT College,Coimbatore,Mechanical,ST,161.24,95000,Government
+Adhiyamaan College,Krishnagiri,Mechanical,BC,163.02,95000,Private
+Velalar College of Engineering,Erode,Civil,MBC,184.94,142540,Private
+AVS Engineering College,Salem,Mechanical,BCM,193.49,128952,Private
+CIT College,Coimbatore,Civil,OC,182.9,92797,Government
+Kongu Engineering College,Erode,Civil,OC,195.34,95000,Private
+Sri Krishna College,Coimbatore,ECE,ST,166.49,15500,Private
+AVS Engineering College,Salem,Biomedical,SC,191.45,95000,Private
+Government College of Engineering,Salem,ECE,ST,165.2,61927,Government
+Kongu Engineering College,Erode,AI & DS,OC,141.48,97633,Private
+Sri Krishna College,Coimbatore,Biomedical,ST,171.64,15500,Private
+Bannari Amman Institute of Technology,Erode,Biomedical,MBC,170.68,95000,Private
+Adhiyamaan College,Krishnagiri,AI & DS,BCM,189.83,137817,Private
+Muthayammal Engineering College,Namakkal,IT,BCM,184.98,95000,Private
+AVS Engineering College,Salem,Biomedical,MBC,139.74,132772,Private
+Muthayammal Engineering College,Namakkal,AI & DS,ST,188.11,138477,Private
+Velalar College of Engineering,Erode,EEE,BCM,185.19,95000,Private
+AVS Engineering College,Salem,AI & DS,MBC,189.88,95000,Private
+Velalar College of Engineering,Erode,CSE,OC,123.75,86143,Private
+Sri Krishna College,Coimbatore,ECE,MBC,192.37,130689,Private
+CIT College,Coimbatore,IT,SC,165.2,15500,Government
+Bannari Amman Institute of Technology,Erode,AI & DS,BCM,187.21,141612,Private
+PSG College of Technology,Coimbatore,ECE,SC,195.45,18671,Government
+Kongu Engineering College,Erode,AI & DS,OC,174.23,95000,Private
+Velalar College of Engineering,Erode,CSE,BC,170.91,79222,Private
+Muthayammal Engineering College,Namakkal,AI & DS,BC,184.35,95000,Private
+Muthayammal Engineering College,Namakkal,Mechanical,OC,191.89,95000,Private
+PSG College of Technology,Coimbatore,Civil,MBC,197.69,23346,Government
+PSG College of Technology,Coimbatore,EEE,ST,159.4,15500,Government
+AVS Engineering College,Salem,Civil,BCM,126.8,111882,Private
+Kongu Engineering College,Erode,CSE,SC,187.42,95000,Private
+CIT College,Coimbatore,Civil,OC,188.25,21700,Government
+Velalar College of Engineering,Erode,CSE,SC,183.13,95000,Private
+AVS Engineering College,Salem,EEE,SC,177.61,91517,Private
+PSG College of Technology,Coimbatore,CSE,BC,194.5,13069,Government
+AVS Engineering College,Salem,EEE,BC,158.3,99241,Private
+Adhiyamaan College,Krishnagiri,AI & DS,SC,134.68,60696,Private
+Adhiyamaan College,Krishnagiri,Biomedical,ST,178.73,95000,Private
+Kongu Engineering College,Erode,Civil,MBC,161.89,95000,Private
+Velalar College of Engineering,Erode,CSE,MBC,145.29,67928,Private
+Bannari Amman Institute of Technology,Erode,EEE,OC,121.39,132046,Private
+Bannari Amman Institute of Technology,Erode,Mechanical,BCM,168.7,95000,Private
+Muthayammal Engineering College,Namakkal,ECE,BC,188.19,95000,Private
+Velalar College of Engineering,Erode,IT,OC,179.29,95000,Private
+Bannari Amman Institute of Technology,Erode,Biomedical,BC,188.42,142540,Private
+Muthayammal Engineering College,Namakkal,Civil,ST,151.07,128952,Private
+Muthayammal Engineering College,Namakkal,AI & DS,BCM,127.54,92797,Private
+Sri Krishna College,Coimbatore,ECE,OC,180.74,95000,Private
+PSG College of Technology,Coimbatore,ECE,MBC,189.41,15500,Government
+Muthayammal Engineering College,Namakkal,ECE,ST,161.13,95000,Private
+Velalar College of Engineering,Erode,Civil,MBC,189.6,61927,Private
+Muthayammal Engineering College,Namakkal,Biomedical,MBC,194.76,95000,Private
+Adhiyamaan College,Krishnagiri,CSE,OC,152.17,105230,Private
+CIT College,Coimbatore,Biomedical,BCM,166.35,11712,Government
+AVS Engineering College,Salem,Civil,BC,172.32,75809,Private
+Sri Krishna College,Coimbatore,ECE,SC,137.18,108429,Private
+Muthayammal Engineering College,Namakkal,AI & DS,BC,148.49,97633,Private
+CIT College,Coimbatore,EEE,OC,193.83,15500,Government
+Adhiyamaan College,Krishnagiri,AI & DS,MBC,187.58,143100,Private
+Velalar College of Engineering,Erode,IT,ST,186.44,50658,Private
+AVS Engineering College,Salem,AI & DS,OC,196.22,95000,Private
+Velalar College of Engineering,Erode,ECE,SC,199.64,95000,Private
+Bannari Amman Institute of Technology,Erode,AI & DS,ST,188.38,119822,Private
+Kongu Engineering College,Erode,ECE,OC,167.01,95000,Private
+Government College of Engineering,Chennai,Mechanical,ST,176.55,15500,Government
+Bannari Amman Institute of Technology,Erode,CSE,BC,196.29,95000,Private
+Sri Krishna College,Coimbatore,IT,BCM,183.02,95000,Private
+Adhiyamaan College,Krishnagiri,Civil,SC,189.57,95000,Private
+Adhiyamaan College,Krishnagiri,CSE,OC,166.48,95000,Private
+Muthayammal Engineering College,Namakkal,Mechanical,OC,187.99,95000,Private
+Velalar College of Engineering,Erode,ECE,ST,161.52,72576,Private
+PSG College of Technology,Coimbatore,EEE,BC,194.5,15500,Government
+Adhiyamaan College,Krishnagiri,Biomedical,MBC,122.95,149597,Private
+Sri Krishna College,Coimbatore,Civil,SC,164.38,95000,Private
+Muthayammal Engineering College,Namakkal,IT,ST,185.15,95000,Private
+Velalar College of Engineering,Erode,ECE,OC,183.04,95000,Private
+Government College of Engineering,Tirunelveli,ECE,BCM,159.58,15500,Government
+PSG College of Technology,Coimbatore,IT,MBC,194.5,22889,Government
+CIT College,Coimbatore,AI & DS,BCM,170.8,16895,Government
+AVS Engineering College,Salem,Civil,BC,165.85,110278,Private
+PSG College of Technology,Coimbatore,Mechanical,BC,188.03,19570,Government
+Muthayammal Engineering College,Namakkal,Mechanical,BC,189.93,95000,Private
+Government College of Engineering,Tirunelveli,CSE,OC,193.21,15500,Government
+Sri Krishna College,Coimbatore,IT,OC,133.83,85781,Private
+CIT College,Coimbatore,Mechanical,SC,188.32,13622,Government
+Government College of Engineering,Erode,IT,OC,194.5,15500,Government
+Adhiyamaan College,Krishnagiri,IT,BCM,182.64,95000,Private
+PSG College of Technology,Coimbatore,Mechanical,OC,194.5,15500,Government
+Government College of Engineering,Coimbatore,CSE,ST,195.55,22643,Government
+Bannari Amman Institute of Technology,Erode,AI & DS,BC,183.91,95000,Private
+Sri Krishna College,Coimbatore,EEE,OC,142.95,98442,Private
+Government College of Engineering,Trichy,Biomedical,MBC,189.41,15500,Government
+Kongu Engineering College,Erode,IT,SC,174.45,95000,Private
+Kongu Engineering College,Erode,CSE,ST,174.72,63154,Private
+Sri Krishna College,Coimbatore,AI & DS,MBC,181.52,95000,Private
+Sri Krishna College,Coimbatore,CSE,OC,177.57,137998,Private
+Government College of Engineering,Madurai,AI & DS,BCM,171.13,18712,Government
+Government College of Engineering,Coimbatore,ECE,MBC,193.81,15500,Government
+Kongu Engineering College,Erode,Mechanical,MBC,161.38,95000,Private
+Government College of Engineering,Madurai,CSE,MBC,175.28,10334,Government
+AVS Engineering College,Salem,AI & DS,OC,185.13,95000,Private
+CIT College,Coimbatore,Biomedical,BCM,165.2,15500,Government
+Bannari Amman Institute of Technology,Erode,ECE,BCM,129.67,132043,Private
+PSG College of Technology,Coimbatore,ECE,BCM,166,12398,Government
+Muthayammal Engineering College,Namakkal,Mechanical,BC,175.96,95000,Private
+Government College of Engineering,Coimbatore,Biomedical,SC,177.86,16451,Government
+Sri Krishna College,Coimbatore,IT,MBC,196.04,95000,Private
+Government College of Engineering,Chennai,IT,OC,196.33,12130,Government
+Government College of Engineering,Coimbatore,IT,BCM,179.26,21087,Government
+Bannari Amman Institute of Technology,Erode,Mechanical,MBC,193.43,95000,Private
+Velalar College of Engineering,Erode,EEE,BC,135.57,81530,Private
+CIT College,Coimbatore,Biomedical,SC,165.2,15500,Government
+PSG College of Technology,Coimbatore,IT,SC,165.2,15500,Government
+Adhiyamaan College,Krishnagiri,ECE,ST,179.05,95000,Private
+Adhiyamaan College,Krishnagiri,Civil,MBC,143.15,71944,Private
+Muthayammal Engineering College,Namakkal,Biomedical,SC,194.39,95000,Private
+AVS Engineering College,Salem,EEE,OC,186.73,95000,Private
+Adhiyamaan College,Krishnagiri,Biomedical,BC,156.82,122712,Private
+Bannari Amman Institute of Technology,Erode,IT,MBC,180.41,95000,Private
+Bannari Amman Institute of Technology,Erode,Biomedical,BC,152.37,52951,Private
+Velalar College of Engineering,Erode,Mechanical,ST,168.32,84951,Private
+Muthayammal Engineering College,Namakkal,IT,MBC,168.37,95000,Private
+Bannari Amman Institute of Technology,Erode,Mechanical,OC,192.13,95000,Private
+CIT College,Coimbatore,IT,SC,165.2,15500,Government
+Sri venkateswara hitech engineering college,Erode,CSE,BC,180,100000,Private
+Sri venkateswara hitech engineering college,Erode,IT,OC,150,65000,Private
+Sri venkateswara hitech engineering college,Erode,AI & DS,MBC,170,75000,Private
+Sri venkateswara hitech engineering college,Erode,AI&ML,SC,175,75000,Private
+Sri venkateswara hitech engineering college,Erode,Mechanical,ST,155,55000,Private
+Sri venkateswara hitech engineering college,Erode,Biomedical,MBC,90,50000,Private
+Sri venkateswara hitech engineering college,Erode,EEE,OC,110,65000,Private
+Sri venkateswara hitech engineering college,Erode,ECE,BCM,140.5,65000,Private
+Sri venkateswara hitech engineering college,Erode,Bio-Techology,MBC,120,50000,Private
+Sri venkateswara hitech engineering college,Erode,Pharamaceutical,MBC,125,55000,Private
+Sri venkateswara hitech engineering college,Erode,Cyber Security,MBC,115.5,60000,Private
+Dhanalakshmi srinivasan college ,Trichy,CSE,BCM,175,15500,Private
+Dhanalakshmi srinivasan college ,Trichy,IT,BCM,155.5,95000,Private
+Dhanalakshmi srinivasan college ,Trichy,AI & DS,SC,165,61927,Private
+Dhanalakshmi srinivasan college ,Trichy,AI&ML,OC,170.5,95000,Private
+Dhanalakshmi srinivasan college ,Trichy,Mechanical,BCM,110,105230,Private
+Dhanalakshmi srinivasan college ,Trichy,Biomedical,OC,100,11712,Private
+Dhanalakshmi srinivasan college ,Trichy,EEE,BC,120.5,75809,Private
+Dhanalakshmi srinivasan college ,Trichy,ECE,MBC,105.5,108429,Private
+Dhanalakshmi srinivasan college ,Trichy,Cyber Security,ST,140,97633,Private
+dhirajlal gandhi college of technology,Salem,CSE,MBC,165,15500,Private
+dhirajlal gandhi college of technology,Salem,IT,OC,110,65000,Private
+dhirajlal gandhi college of technology,Salem,AI & DS,BCM,150,80000,Private
+dhirajlal gandhi college of technology,Salem,ECE,BC,115.5,55000,Private
+dhirajlal gandhi college of technology,Salem,Mechanical,OC,125.5,50000,Private
+dhirajlal gandhi college of technology,Salem,Biomedical,BC,90,65000,Private
+dhirajlal gandhi college of technology,Salem,EEE,ST,95,55000,Private
+Karpagam college of engineering,Salem,CSE,ST,195,35000,Government
+Karpagam college of engineering,Salem,IT,MBC,170,30000,Government
+Karpagam college of engineering,Salem,AI & DS,BCM,185,25000,Government
+Karpagam college of engineering,Salem,Cyber Security,BCM,165,30000,Government
+Karpagam college of engineering,Salem,Mechanical,MBC,155.5,30000,Government
+Karpagam college of engineering,Salem,Biomedical,ST,160.5,25000,Government
+Karpagam college of engineering,Salem,EEE,BCM,145,30000,Government
+Karpagam college of engineering,Salem,ECE,MBC,155.5,20000,Government
+Karpagam college of engineering,Salem,Bio-techology,OC,166,30000,Government
+Karpagam college of engineering,Salem,Pharamaceutical,MBC,177,30000,Government
+CMS college of engineering,Namakkal,CSE,BCM,175,65000,Private
+CMS college of engineering,Namakkal,IT,OC,120,55000,Private
+CMS college of engineering,Namakkal,AI & DS,MBC,155,60000,Private
+CMS college of engineering,Namakkal,ECE,ST,100.5,45000,Private
+CMS college of engineering,Namakkal,Mechanical,MBC,95,45000,Private
+CMS college of engineering,Namakkal,Biomedical,MBC,90,40000,Private
+CMS college of engineering,Namakkal,EEE,OC,85,50000,Private
+Park college of engineering,Coimbatore,CSE,ST,185,110000,Private
+Park college of engineering,Coimbatore,IT,OC,165.5,85000,Private
+Park college of engineering,Coimbatore,AI & DS,BCM,175,100000,Private
+Park college of engineering,Coimbatore,AI&ML,MBC,165,95000,Private
+Park college of engineering,Coimbatore,Mechanical,BCM,125.5,85000,Private
+Park college of engineering,Coimbatore,Biomedical,BC,115.5,75000,Private
+Park college of engineering,Coimbatore,EEE,BC,90,65000,Private
+Park college of engineering,Coimbatore,ECE,BC,95,65000,Private
+Suguna college of engineering,Coimbatore,AI & DS,ST,185,95000,Private
+Suguna college of engineering,Coimbatore,EEE,SC,125,95000,Private
+Suguna college of engineering,Coimbatore,ECE,SC,110,15500,Private
+Suguna college of engineering,Coimbatore,Mechanical,BC,115,100000,Private
+Suguna college of engineering,Coimbatore,IT,MBC,130,65000,Private
+Suguna college of engineering,Coimbatore,Mechatronics,SC,155.5,75000,Private
+Suguna college of engineering,Coimbatore,Agriculture,OC,125,75000,Private
+Adithya institute of technology ,Coimbatore,AI & DS,MBC,175,55000,Private
+Adithya institute of technology ,Coimbatore,EEE,BCM,135.5,50000,Private
+Adithya institute of technology ,Coimbatore,ECE,ST,110,65000,Private
+Adithya institute of technology ,Coimbatore,Mechanical,ST,90,50658,Private
+Adithya institute of technology ,Coimbatore,IT,MBC,158,95000,Private
+Adithya institute of technology ,Coimbatore,Civil,SC,100.5,95000,Private
+Adithya institute of technology ,Coimbatore,Aeronautical,OC,135.5,119822,Private
+Akshaya college of engineering and technology ,Coimbatore,AI & DS,BC,122.5,95000,Private
+Akshaya college of engineering and technology ,Coimbatore,EEE,MBC,95.5,15500,Private
+Akshaya college of engineering and technology ,Coimbatore,ECE,BC,128,95000,Private
+Akshaya college of engineering and technology ,Coimbatore,Mechanical,ST,165,95000,Private
+Akshaya college of engineering and technology ,Coimbatore,IT,MBC,152.5,95000,Private
+Akshaya college of engineering and technology ,Coimbatore,Civil,OC,80.5,15500,Private
+Akshaya college of engineering and technology ,Coimbatore,AI&ML,SC,155,95000,Private
+Amrita schools of engineering,Coimbatore,AI & DS,BC,175.5,15500,Private
+Amrita schools of engineering,Coimbatore,EEE,OC,135.5,22643,Private
+Amrita schools of engineering,Coimbatore,ECE,BC,133.5,95000,Private
+Amrita schools of engineering,Coimbatore,Mechanical,SC,120,98442,Private
+Amrita schools of engineering,Coimbatore,IT,ST,115.5,15500,Private
+Amrita schools of engineering,Coimbatore,Civil,MBC,120,95000,Private
+Amrita schools of engineering,Coimbatore,chemical Engineering,MBC,145,63154,Private
+Anna university regional campus ,Coimbatore,Mechanical,OC,180,95000,Government
+Anna university regional campus ,Coimbatore,IT,BCM,164,137998,Government
+Anna university regional campus ,Coimbatore,Civil,BC,154,95000,Government
+Anna university regional campus ,Coimbatore, CSE,OC,195,132772,Government
+Anna university regional campus ,Coimbatore,AI&DS,BC,192.5,138477,Government
+Arjun college of engineering ,Coimbatore,AI & DS,ST,176.5,95000,Private
+Arjun college of engineering ,Coimbatore,EEE,BCM,155,95000,Private
+Arjun college of engineering ,Coimbatore,ECE,OC,95,86143,Private
+Arjun college of engineering ,Coimbatore,Mechanical,MBC,112.5,130689,Private
+Arjun college of engineering ,Coimbatore,IT,ST,132,15500,Private
+Arjun college of engineering ,Coimbatore,Civil,MBC,135,141612,Private
+Arjun college of engineering ,Coimbatore,CSE,MBC,178,18671,Private
+Velalar College of Engineering,Coimbatore,EEE,SC,122,95000,Private
+Velalar College of Engineering,Coimbatore,ECE,BCM,134.5,79222,Private
+Velalar College of Engineering,Coimbatore,Mechanical,BCM,110.5,95000,Private
+Velalar College of Engineering,Coimbatore,IT,ST,98,95000,Private
+Velalar College of Engineering,Coimbatore,Civil,ST,88,23346,Private
+Velalar College of Engineering,Coimbatore,CSE,BCM,166.5,15500,Private
+Velalar College of Engineering,Coimbatore,AI&ML,ST,155,95000,Private
+Velalar College of Engineering,Coimbatore,Automobile,MBC,124,98442,Private
+Velalar College of Engineering,Coimbatore,Mechatronics,BCM,135,15500,Private
+Indus College of Engineering ,Coimbatore,CSE,BC,185,95000,Private
+Indus College of Engineering ,Coimbatore,EEE,OC,146,63154,Private
+Indus College of Engineering ,Coimbatore,ECE,SC,157.5,95000,Private
+Indus College of Engineering ,Coimbatore,Mechanical,MBC,155,137998,Private
+Indus College of Engineering ,Coimbatore,IT,ST,122.5,18712,Private
+Indus College of Engineering ,Coimbatore,Civil,ST,122,15500,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,EEE,SC,134,95000,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,ECE,SC,152,10334,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,Mechanical,OC,122,95000,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,IT,BC,135,15500,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,Civil,SC,167.5,15500,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,CSE,BCM,152.5,95000,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,AI&ML,ST,187.5,61927,Private
+Dr. Mahalingam College of Engineering and Technology,Coimbatore,Automobile,ST,132.5,95000,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,CSE,SC,188.5,105230,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,AI&ML,BCM,165.5,11712,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,EEE,BCM,155,75809,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,ECE,SC,99,108429,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,Mechanical,OC,94,97633,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,IT,BCM,97.5,15500,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,Cyber Security,OC,120.5,15500,Private
+Kalaignar Karunanidhi Institute of Technology,Coimbatore,AI&DS,BC,168.5,95000,Private
+Kathir College of Engineering,Coimbatore,EEE,MBC,115.5,61927,Private
+Kathir College of Engineering,Coimbatore,ECE,ST,130,95000,Private
+Kathir College of Engineering,Coimbatore,Mechanical,OC,119,105230,Private
+Kathir College of Engineering,Coimbatore,IT,BC,122,11712,Private
+Kathir College of Engineering,Coimbatore,CSE,MBC,199.5,75809,Private
+Kumaraguru College of Technology,Coimbatore,AI&DS,ST,179,108429,Private
+Kumaraguru College of Technology,Coimbatore,EEE,MBC,166,97633,Private
+Kumaraguru College of Technology,Coimbatore,ECE,OC,129.5,15500,Private
+Kumaraguru College of Technology,Coimbatore,Mechanical,ST,165,100000,Private
+Kumaraguru College of Technology,Coimbatore,IT,SC,124.5,65000,Private
+Kumaraguru College of Technology,Coimbatore,CSE,BCM,135.5,75000,Private
+Kumaraguru College of Technology,Coimbatore,Bio-Techology,ST,155,75000,Private
+SVS Educational Institutions,Coimbatore,CSE,BC,187.5,55000,Private
+SVS Educational Institutions,Coimbatore,Petro-Chemical,MBC,165,50000,Private
+SVS Educational Institutions,Coimbatore,EEE,BCM,167,95000,Private
+SVS Educational Institutions,Coimbatore,ECE,OC,135.5,95000,Private
+SVS Educational Institutions,Coimbatore,Mechanical,OC,113.5,95000,Private
+SVS Educational Institutions,Coimbatore,IT,ST,99,95000,Private
+SVS Educational Institutions,Coimbatore,Fire-Technology,SC,90,95000,Private
+Tamil Nadu College of Engineering,Coimbatore,CSE,ST,176,72576,Private
+Tamil Nadu College of Engineering,Coimbatore,AI&ML,MBC,179.9,15500,Private
+Tamil Nadu College of Engineering,Coimbatore,EEE,BCM,99,149597,Private
+Tamil Nadu College of Engineering,Coimbatore,ECE,BCM,158,95000,Private
+Tamil Nadu College of Engineering,Coimbatore,Mechanical,SC,88,95000,Private
+Tamil Nadu College of Engineering,Coimbatore,IT,OC,87,95000,Private
+Tamil Nadu College of Engineering,Coimbatore,Automobile,BCM,124,15500,Private
+Tamil Nadu College of Engineering,Coimbatore,Industrial,OC,124.5,92438,Private
+Study World College of Engineering,Coimbatore,EEE,BC,139.5,15500,Private
+Study World College of Engineering,Coimbatore,ECE,MBC,136.5,95000,Private
+Study World College of Engineering,Coimbatore,Mechanical,ST,163,95000,Private
+Study World College of Engineering,Coimbatore,IT,MBC,154,95425,Private
+Study World College of Engineering,Coimbatore,CSE,ST,186,83270,Private
+Prince Shri Venkateshwara Padmavathy Engineering College,Chennai,EEE,OC,112,63154,Private
+Prince Shri Venkateshwara Padmavathy Engineering College,Chennai,ECE,BCM,100.5,95000,Private
+Prince Shri Venkateshwara Padmavathy Engineering College,Chennai,Mechanical,BCM,96,137998,Private
+Prince Shri Venkateshwara Padmavathy Engineering College,Chennai,IT,BCM,95.5,18712,Private
+Prince Shri Venkateshwara Padmavathy Engineering College,Chennai,CSE,BC,198,15500,Private
+Prince Shri Venkateshwara Padmavathy Engineering College,Chennai,Civil,SC,142.5,95000,Private
+KCG College of Technology,Chennai,EEE,MBC,155,10334,Private
+KCG College of Technology,Chennai,ECE,OC,123,95000,Private
+KCG College of Technology,Chennai,Mechanical,BCM,124.5,15500,Private
+KCG College of Technology,Chennai,IT,MBC,96,50000,Private
+KCG College of Technology,Chennai,CSE,BC,186,110000,Private
+KCG College of Technology,Chennai,Civil,SC,124,85000,Private
+KCG College of Technology,Chennai,AI&DS,SC,176,100000,Private
+RMK Engineering College,Chennai,EEE,ST,139,95000,Private
+RMK Engineering College,Chennai,ECE,MBC,125,85000,Private
+RMK Engineering College,Chennai,Mechanical,SC,142.5,75000,Private
+RMK Engineering College,Chennai,IT,OC,139.5,65000,Private
+RMK Engineering College,Chennai,CSE,BCM,198.5,65000,Private
+RMK Engineering College,Chennai,Civil,OC,124.5,95000,Private
+RMK Engineering College,Chennai,AI&DS,ST,169,95000,Private
+RMK Engineering College,Chennai,Bio-Techology,BC,130,15500,Private
+Panimalar Engineering College,Chennai,EEE,OC,124,95000,Private
+Panimalar Engineering College,Chennai,ECE,MBC,118,95000,Private
+Panimalar Engineering College,Chennai,Mechanical,SC,165,15500,Private
+Panimalar Engineering College,Chennai,IT,ST,95,22889,Private
+Panimalar Engineering College,Chennai,CSE,BCM,192.5,16895,Private
+Panimalar Engineering College,Chennai,Civil,SC,98.5,110278,Private
+St. Joseph's College of Engineering,Chennai,EEE,OC,85.5,19570,Private
+St. Joseph's College of Engineering,Chennai,ECE,OC,86.5,15500,Private
+St. Joseph's College of Engineering,Chennai,Mechanical,ST,93,95000,Private
+St. Joseph's College of Engineering,Chennai,IT,BC,98.5,63154,Private
+St. Joseph's College of Engineering,Chennai,CSE,MBC,184,95000,Private
+St. Joseph's College of Engineering,Chennai,Civil,SC,135,137998,Private
+St. Joseph's College of Engineering,Chennai,AI&DS,ST,187,18712,Private
+St. Joseph's College of Engineering,Chennai,Biomedical,OC,139.5,15500,Private
+Rajalakshmi Engineering College,Chennai,EEE,BCM,158,95000,Private
+Rajalakshmi Engineering College,Chennai,ECE,MBC,153,10334,Private
+Rajalakshmi Engineering College,Chennai,Mechanical,BCM,124,45000,Private
+Rajalakshmi Engineering College,Chennai,IT,BC,156,40000,Private
+Rajalakshmi Engineering College,Chennai,CSE,MBC,200,50000,Private
+Rajalakshmi Engineering College,Chennai,Civil,BC,127.5,110000,Private
+Meenakshi Sundararajan Engineering College,Chennai,AI & DS,ST,166.5,85000,Private
+Meenakshi Sundararajan Engineering College,Chennai,EEE,MBC,120,100000,Private
+Meenakshi Sundararajan Engineering College,Chennai,ECE,OC,119,95000,Private
+Meenakshi Sundararajan Engineering College,Chennai,Mechanical,SC,90,85000,Private
+Meenakshi Sundararajan Engineering College,Chennai,IT,BC,86,75000,Private
+Meenakshi Sundararajan Engineering College,Chennai,Civil,OC,130,65000,Private
+Meenakshi Sundararajan Engineering College,Chennai,AI&ML,MBC,188.5,65000,Private
+Meenakshi Sundararajan Engineering College,Chennai,Biomedical,SC,118.5,95000,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,CSE,ST,199,95000,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,IT,MBC,185,15500,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,AI & DS,OC,188,15500,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,Cyber Security,BCM,175,95000,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,Mechanical,MBC,178.5,61927,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,Biomedical,BCM,186,95000,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,EEE,OC,170.5,105230,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,ECE,MBC,170.5,11712,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,Bio-Techology,BC,182,75809,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,Pharamaceutical,OC,185,108429,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,AI&ML,ST,192,97633,Private
+Loyola-ICAM College of Engineering and Technology,Chennai,Pharamaceutical,SC,165,100000,Private
+K.Ramakrishnan college of technology,Trichy,EEE,OC,155,18712,Private
+K.Ramakrishnan college of technology,Trichy,ECE,BC,145,15500,Private
+K.Ramakrishnan college of technology,Trichy,Mechanical,MBC,130.5,95000,Private
+K.Ramakrishnan college of technology,Trichy,IT,ST,122.5,10334,Private
+K.Ramakrishnan college of technology,Trichy,CSE,MBC,170,95000,Private
+K.Ramakrishnan college of technology,Trichy,Civil,OC,130,15500,Private
+K.Ramakrishnan college of technology,Trichy,AI&DS,BCM,175,15500,Private
+M.A.M college of engineering,Trichy,EEE,BC,90,95000,Private
+M.A.M college of engineering,Trichy,ECE,OC,111,61927,Private
+M.A.M college of engineering,Trichy,Mechanical,BC,127,95000,Private
+M.A.M college of engineering,Trichy,IT,ST,145,105230,Private
+M.A.M college of engineering,Trichy,CSE,ST,169,11712,Private
+M.A.M college of engineering,Trichy,Civil,MBC,124,75809,Private
+M.A.M college of engineering,Trichy,AI&DS,BCM,194,108429,Private
+M.A.M college of engineering,Trichy,AI&ML,BCM,191,97633,Private
+Saranathan college of engineering,Trichy,AI&DS,MBC,186.5,15500,Private
+Saranathan college of engineering,Trichy,EEE,ST,105,15500,Private
+Saranathan college of engineering,Trichy,ECE,BCM,100,18712,Private
+Saranathan college of engineering,Trichy,Mechanical,MBC,130,15500,Private
+Saranathan college of engineering,Trichy,IT,OC,122,95000,Private
+Saranathan college of engineering,Trichy,CSE,MBC,199,10334,Private
+Saranathan college of engineering,Trichy,Civil,BCM,190,95000,Private
+Saranathan college of engineering,Trichy,AI&DS,ST,182,15500,Private
+Saranathan college of engineering,Trichy,AI&ML,ST,181.5,132043,Private
+Kongunadu college of engineering,Trichy,AI&DS,SC,169.5,12398,Private
+Kongunadu college of engineering,Trichy,EEE,BCM,98.5,95000,Private
+Kongunadu college of engineering,Trichy,ECE,BCM,88.5,16451,Private
+Kongunadu college of engineering,Trichy,Mechanical,SC,98.5,95000,Private
+Kongunadu college of engineering,Trichy,IT,OC,100.5,12130,Private
+Kongunadu college of engineering,Trichy,CSE,BCM,192,21087,Private
+Kongunadu college of engineering,Trichy,Civil,OC,132,95000,Private
+Kongunadu college of engineering,Trichy,AI&DS,BC,196,81530,Private
+Thiagarajar college of engineering,Madurai,AI&ML,MBC,196,15500,Private
+Thiagarajar college of engineering,Madurai,AI&DS,ST,182,15500,Private
+Thiagarajar college of engineering,Madurai,EEE,SC,111.5,95000,Private
+Thiagarajar college of engineering,Madurai,ECE,MBC,109,71944,Private
+Thiagarajar college of engineering,Madurai,Mechanical,SC,130,95000,Private
+Thiagarajar college of engineering,Madurai,IT,SC,145.5,95000,Private
+Thiagarajar college of engineering,Madurai,CSE,SC,175,122712,Private
+Thiagarajar college of engineering,Madurai,Civil,ST,128.5,95000,Private
+Velammal college of engineering,Madurai,Biomedical,OC,120,95000,Private
+Velammal college of engineering,Madurai,EEE,BC,99.5,21700,Private
+Velammal college of engineering,Madurai,ECE,MBC,100,95000,Private
+Velammal college of engineering,Madurai,Mechanical,ST,140,91517,Private
+Velammal college of engineering,Madurai,IT,MBC,120,13069,Private
+Velammal college of engineering,Madurai,CSE,OC,200,99241,Private
+Velammal college of engineering,Madurai,Civil,ST,130,60696,Private
+Velammal college of engineering,Madurai,AI&DS,SC,185,95000,Private
+Syed ammal engineering college,Madurai,EEE,BCM,130,95000,Private
+Syed ammal engineering college,Madurai,ECE,ST,96,67928,Private
+Syed ammal engineering college,Madurai,Mechanical,BC,120,132046,Private
+Syed ammal engineering college,Madurai,IT,MBC,139,95000,Private
+Syed ammal engineering college,Madurai,CSE,BCM,182.5,95000,Private
+Syed ammal engineering college,Madurai,Civil,OC,115.5,95000,Private
+Syed ammal engineering college,Madurai,AI&DS,OC,184.5,142540,Private
+Syed ammal engineering college,Madurai,Biomedical,ST,120,128952,Private
+Kamaraj college of engineering and technology,Madurai,AI&DS,SC,178.5,92797,Private
+Kamaraj college of engineering and technology,Madurai,Civil,ST,113.5,95000,Private
+Kamaraj college of engineering and technology,Madurai,ECE,OC,99,15500,Private
+Kamaraj college of engineering and technology,Madurai,Mechanical,ST,110,95000,Private
+Kamaraj college of engineering and technology,Madurai,IT,BCM,136.5,61927,Private
+Kamaraj college of engineering and technology,Madurai,CSE,BCM,179.9,21700,Private
+SACS MAVMM engineering college,Madurai,ECE,ST,99,95000,Private
+SACS MAVMM engineering college,Madurai,Mechanical,ST,158,91517,Private
+SACS MAVMM engineering college,Madurai,IT,BCM,154,13069,Private
+SACS MAVMM engineering college,Madurai,CSE,ST,186,99241,Private
+SACS MAVMM engineering college,Madurai,Civil,MBC,134,60696,Private
+Meoco schlenk engineering college,Sivakasi,CSE,BCM,179,95000,Private
+Meoco schlenk engineering college,Sivakasi,ECE,BC,117.5,95000,Private
+Meoco schlenk engineering college,Sivakasi,Mechanical,OC,136.5,67928,Private
+Meoco schlenk engineering college,Sivakasi,IT,SC,149.5,132046,Private
+Meoco schlenk engineering college,Sivakasi,CSE,MBC,154,95000,Private
+Meoco schlenk engineering college,Sivakasi,Civil,ST,169,95000,Private
+Meoco schlenk engineering college,Sivakasi,Biomedical,ST,112,95000,Private
+Meoco schlenk engineering college,Sivakasi,Bio-techology,SC,100.5,142540,Private
+PSR engineering college,Sivakasi,AI&DS,SC,169,128952,Private
+PSR engineering college,Sivakasi,Biomedical,OC,95.5,92797,Private
+PSR engineering college,Sivakasi,Bio-Techology,BCM,99,92797,Private
+PSR engineering college,Sivakasi,Civil,ST,116.5,95000,Private
+PSR engineering college,Sivakasi,ECE,ST,155,15500,Private
+PSR engineering college,Sivakasi,Mechanical,BCM,98,22889,Private
+PSR engineering college,Sivakasi,IT,ST,124.5,16895,Private
+PSR engineering college,Sivakasi,CSE,MBC,179,110278,Private
+AAA college engineering and technology,Sivakasi,Civil,BCM,138,19570,Private
+AAA college engineering and technology,Sivakasi,ECE,BC,124,95000,Private
+AAA college engineering and technology,Sivakasi,Mechanical,OC,128,15500,Private
+AAA college engineering and technology,Sivakasi,IT,SC,139,85781,Private
+AAA college engineering and technology,Sivakasi,CSE,MBC,183,13622,Private
+AAA college engineering and technology,Sivakasi,AI&DS,ST,142.5,15500,Private
+AAA college engineering and technology,Sivakasi,Cyber Security,ST,134.5,95000,Private
+A R College Of Engineering & Technology ,Tirunelveli,CSE,SC,198.5,15500,Private
+A R College Of Engineering & Technology ,Tirunelveli,Civil,SC,124.5,22643,Private
+A R College Of Engineering & Technology ,Tirunelveli,ECE,MBC,136,95000,Private
+A R College Of Engineering & Technology ,Tirunelveli,EEE,ST,130,98442,Private
+A R College Of Engineering & Technology ,Tirunelveli,Automobile,SC,124,108429,Private
+A R College Of Engineering & Technology ,Tirunelveli,Mechatronics,BCM,118,97633,Private
+A R College Of Engineering & Technology ,Tirunelveli,Mechanical,BCM,129,15500,Private
+Francis Xavier Engineering College,Tirunelveli,CSE,SC,195,15500,Private
+Francis Xavier Engineering College,Tirunelveli,Civil,OC,120,95000,Private
+Francis Xavier Engineering College,Tirunelveli,Mechanical,BCM,110.5,61927,Private
+Francis Xavier Engineering College,Tirunelveli,EEE,OC,85.5,95000,Private
+Francis Xavier Engineering College,Tirunelveli,ECE,BC,86.5,105230,Private
+Francis Xavier Engineering College,Tirunelveli,AI&DS,MBC,168.5,11712,Private
+Francis Xavier Engineering College,Tirunelveli,IT,ST,98.5,75809,Private
+PSN college of engineering and technology,Tirunelveli,CSE,OC,184,108429,Private
+PSN college of engineering and technology,Tirunelveli,IT,BC,135,97633,Private
+PSN college of engineering and technology,Tirunelveli,AI & DS,MBC,187,15500,Private
+PSN college of engineering and technology,Tirunelveli,Cyber Security,ST,139.5,95000,Private
+PSN college of engineering and technology,Tirunelveli,Mechanical,MBC,158,63154,Private
+PSN college of engineering and technology,Tirunelveli,Biomedical,OC,153,95000,Private
+PSN college of engineering and technology,Tirunelveli,EEE,SC,124,137998,Private
+PSN college of engineering and technology,Tirunelveli,ECE,ST,156,18712,Private
+PSN college of engineering and technology,Tirunelveli,Bio-Techology,MBC,129.5,15500,Private
+SCAD college of enginneering and technology,Tirunelveli,CSE,BCM,176.5,95000,Private
+SCAD college of enginneering and technology,Tirunelveli,EEE,BCM,124.5,10334,Private
+SCAD college of enginneering and technology,Tirunelveli,Civil,SC,99.5,95000,Private
+SCAD college of enginneering and technology,Tirunelveli,AI&DS,OC,170,15500,Private
+SCAD college of enginneering and technology,Tirunelveli,Mechanical,BCM,140,132043,Private
+Government college of engineering,Tirunelveli,CSE,OC,195,30000,Government
+Government college of engineering,Tirunelveli,EEE,BC,155.5,30000,Government
+Government college of engineering,Tirunelveli,Civil,OC,145.5,30000,Government
+Government college of engineering,Tirunelveli,ECE,ST,165,30000,Government
+Government college of engineering,Tirunelveli,Mechanical,MBC,175.5,30000,Government
+Government college of engineering,Tirunelveli,Mechatronics,ST,177.5,30000,Government
+Nellai college of engineering,Tirunelveli,AI&DS,MBC,184.5,15500,Private
+Nellai college of engineering,Tirunelveli,Mechanical,BCM,131.5,15500,Private
+Nellai college of engineering,Tirunelveli,CSE,BCM,181.5,95000,Private
+Nellai college of engineering,Tirunelveli,EEE,SC,119,61927,Private
+Nellai college of engineering,Tirunelveli,Civil,OC,106,95000,Private
+Nellai college of engineering,Tirunelveli,ECE,BCM,110,105230,Private
+Einstein College of Engineering,Tirunelveli,AI&DS,OC,167.5,11712,Private
+Einstein College of Engineering,Tirunelveli,Mechanical,BC,142,75809,Private
+Einstein College of Engineering,Tirunelveli,CSE,MBC,198,108429,Private
+Einstein College of Engineering,Tirunelveli,EEE,ST,126.5,97633,Private
+Einstein College of Engineering,Tirunelveli,Civil,MBC,140,15500,Private
+Einstein College of Engineering,Tirunelveli,ECE,ST,135,100000,Private
+Government College of Engineering,Erode,IT,OC,149,25000,Government
+Government College of Engineering,Erode,Mechanical,BCM,165,27000,Government
+Government College of Engineering,Erode,CSE,BCM,195,27000,Government
+Government College of Engineering,Erode,EEE,BCM,155.5,27000,Government
+Government College of Engineering,Erode,Civil,BC,160,27000,Government
+Government College of Engineering,Erode,ECE,OC,160,27000,Government
+Government College of Engineering,Erode,Automobile,BCM,170,27000,Government
+Nandha Engineering College,Erode,Agriculture,MBC,130,55000,Private
+Nandha Engineering College,Erode,AI&DS,BCM,188.5,50000,Private
+Nandha Engineering College,Erode,Biomedical,OC,118.5,65000,Private
+Nandha Engineering College,Erode,Civil,MBC,90,65000,Private
+Nandha Engineering College,Erode,CSE,BC,185,50000,Private
+Nandha Engineering College,Erode,Cyber Security,OC,120,55000,Private
+Nandha Engineering College,Erode,ECE,ST,110,60000,Private
+Nandha Engineering College,Erode,IT,SC,130,15500,Private
+Nandha Engineering College,Erode,IoT,OC,186,95000,Private
+Bhilai Institute of Technology,Erode,AI&DS,BC,170.5,61927,Private
+Bhilai Institute of Technology,Erode,CSE,MBC,170.5,95000,Private
+Bhilai Institute of Technology,Erode,EEE,ST,130,105230,Private
+Bhilai Institute of Technology,Erode,Mechanical,MBC,130,11712,Private
+Erode Sengunthar Engineering College,Erode,Civil,OC,110,75809,Private
+Erode Sengunthar Engineering College,Erode,CSE,MBC,165,108429,Private
+Erode Sengunthar Engineering College,Erode,Cyber Security,BCM,155,138477,Private
+Erode Sengunthar Engineering College,Erode,AI&ML,ST,160,95000,Private
+Erode Sengunthar Engineering College,Erode,IoT,MBC,130.5,95000,Private
+Erode Sengunthar Engineering College,Erode,EEE,BCM,122.5,86143,Private
+Erode Sengunthar Engineering College,Erode,ECE,BC,117,130689,Private
+Erode Sengunthar Engineering College,Erode,Mechanical,OC,130,15500,Private
+Erode Sengunthar Engineering College,Erode,Biomedical,SC,112.5,141612,Private
+Erode Sengunthar Engineering College,Erode,IT,MBC,130,18671,Private
+Erode Sengunthar Engineering College,Erode,AI&DS,ST,175,95000,Private
+Erode Sengunthar Engineering College,Erode,Bio-Techology,ST,127,79222,Private
+Erode Sengunthar Engineering College,Erode,Agriculture,OC,145,95000,Private
+Erode Sengunthar Engineering College,Erode,Robotics and Automation,ST,169,95000,Private
+University college of engineering,Villupuram,CSE,BCM,199,27000,Government
+University college of engineering,Villupuram,ECE,BCM,150,15500,Government
+University college of engineering,Villupuram,IT,ST,155,25000,Government
+University college of engineering,Villupuram,Mechanical,ST,167,20000,Government
+University college of engineering,Villupuram,EEE,BCM,145,15500,Government
+Dr.Paul's engineering college,Villupuram,CSE,ST,175,95000,Private
+Dr.Paul's engineering college,Villupuram,ECE,MBC,130,63154,Private
+Dr.Paul's engineering college,Villupuram,Mechanical,BCM,122,95000,Private
+Dr.Paul's engineering college,Villupuram,Civil,BC,125,137998,Private
+Dr.Paul's engineering college,Villupuram,Food Technology,OC,120,18712,Private
+Dr.Paul's engineering college,Villupuram,Robotics ,SC,160.5,15500,Private
+Dr.Paul's engineering college,Villupuram,Bio-Techology,MBC,136,95000,Private
+Dr.Paul's engineering college,Villupuram,Fire-Technology,ST,126,45000,Private
+SASTRA Deemed Universit,thanjavur,Civil,MBC,92,60000,Private
+SASTRA Deemed university,thanjavur,chemical Engineering,BCM,110,70000,Private
+SASTRA Deemed university,thanjavur,Bio-Techology,OC,90,50000,Private
+SASTRA Deemed university,thanjavur,CSE,MBC,174,125000,Private
+SASTRA Deemed university,thanjavur,Aerospace,BC,150,150000,Private
+Government College of Engineering,thanjavur,Civil,OC,122.5,30000,Government
+Government College of Engineering,thanjavur,Mechanical,MBC,114.7,15000,Government
+Government College of Engineering,thanjavur,CSE,BCM,185,35000,Government
+Government College of Engineering,thanjavur,ECE,OC,165,15000,Government
+Government College of Engineering,thanjavur,EEE,OC,155,20000,Government
+Parisutham Institute of Technology and Science,thanjavur,Civil,ST,93,55000,Private
+Parisutham Institute of Technology and Science,thanjavur,CSE,SC,90,65000,Private
+Parisutham Institute of Technology and Science,thanjavur,EEE,ST,92,55500,Private
+Parisutham Institute of Technology and Science,thanjavur,ECE,OC,147,60000,Private
+Parisutham Institute of Technology and Science,thanjavur,IT,ST,120,50000,Private
+St. Joseph's College of Engineering and Technology,thanjavur,CSE,BCM,188,125000,Private
+St. Joseph's College of Engineering and Technology,thanjavur,IT,BCM,170,130000,Private
+St. Joseph's College of Engineering and Technology,thanjavur,ECE,ST,145,100000,Private
+St. Joseph's College of Engineering and Technology,thanjavur,Mechanical,ST,140,90000,Private
+St. Joseph's College of Engineering and Technology,thanjavur,AI&DS,BCM,192,140000,Private
+Thanthai Periyar Government Institute of Technology,Vellore,Civil,ST,99,10000,Government
+Thanthai Periyar Government Institute of Technology,Vellore,CSE,MBC,195,15000,Government
+Thanthai Periyar Government Institute of Technology,Vellore,EEE,BCM,170,20000,Government
+Thanthai Periyar Government Institute of Technology,Vellore,ECE,BC,165,25000,Government
+Thanthai Periyar Government Institute of Technology,Vellore,Mechanical,BCM,125,10000,Government
+Annai Mira College of Engineering and Technology,Vellore,AI&DS,BCM,185,1450000,Private
+Annai Mira College of Engineering and Technology,Vellore,Civil,BC,110,90000,Private
+Annai Mira College of Engineering and Technology,Vellore,CSE,OC,186,125000,Private
+Annai Mira College of Engineering and Technology,Vellore,ECE,BCM,142,110000,Private
+Annai Mira College of Engineering and Technology,Vellore,IT,MBC,170,125000,Private
+Annai Mira College of Engineering and Technology,Vellore,Mechanical,BCM,92,90000,Private
+Annai Mira College of Engineering and Technology,Vellore,EEE,OC,156,120000,Private
+Kamaraj College of Engineering and Technology,Virudhunagar,CSE,MBC,192,145000,Private
+Kamaraj College of Engineering and Technology,Virudhunagar,ECE,BC,192,140000,Private
+Kamaraj College of Engineering and Technology,Virudhunagar,Mechanical,OC,92,65000,Private
+Kamaraj College of Engineering and Technology,Virudhunagar,Civil,ST,95,75000,Private
+Kamaraj College of Engineering and Technology,Virudhunagar,Mechatronics,SC,94,74000,Private
+Kamaraj College of Engineering and Technology,Virudhunagar,EEE,OC,175,110000,Private
+Sri Vidya College of Engineering & Technology,Virudhunagar,ECE,BC,157,120000,Private
+Sri Vidya College of Engineering & Technology,Virudhunagar,Mechanical,MBC,100,90000,Private
+Sri Vidya College of Engineering & Technology,Virudhunagar,CSE,OC,188,125000,Private
+Sri Vidya College of Engineering & Technology,Virudhunagar,Civil,SC,100,95000,Private
+Sri Vidya College of Engineering & Technology,Virudhunagar,EEE,ST,114,100000,Private
+Sree Sowdambika College of Engineering,Virudhunagar,ECE,MBC,155,115000,Private
+Sree Sowdambika College of Engineering,Virudhunagar,Mechanical,BCM,112.5,65000,Private
+Sree Sowdambika College of Engineering,Virudhunagar,CSE,BCM,188.5,150000,Private
+Sree Sowdambika College of Engineering,Virudhunagar,Civil,SC,92,75000,Private
+Sree Sowdambika College of Engineering,Virudhunagar,EEE,OC,155.5,100000,Private
+Sree Sowdambika College of Engineering,Virudhunagar,AI&DS,BCM,192,145000,Private
+VPMM Women Engineering College,Virudhunagar,ECE,OC,144,125000,Private
+VPMM Women Engineering College,Virudhunagar,EEE,BC,147.5,115000,Private
+VPMM Women Engineering College,Virudhunagar,CSE,OC,185.6,135000,Private
+VPMM Women Engineering College,Virudhunagar,Civil,ST,110,100000,Private
+Renganayagi Varatharaj College of Engineering,Virudhunagar,CSE,MBC,188,135000,Private
+Renganayagi Varatharaj College of Engineering,Virudhunagar,ECE,ST,100,90000,Private
+Renganayagi Varatharaj College of Engineering,Virudhunagar,Mechanical,MBC,89,70000,Private
+Renganayagi Varatharaj College of Engineering,Virudhunagar,Civil,BCM,114,95000,Private
+Renganayagi Varatharaj College of Engineering,Virudhunagar,AI&DS,BCM,190.5,135000,Private
+Renganayagi Varatharaj College of Engineering,Virudhunagar,EEE,SC,144.5,110000,Private
+PSR Rengasamy College of Engineering,Virudhunagar,CSE,OC,185.5,125000,Private
+PSR Rengasamy College of Engineering,Virudhunagar,AI&DS,BCM,190,142000,Private
+PSR Rengasamy College of Engineering,Virudhunagar,ECE,OC,174,130000,Private
+PSR Rengasamy College of Engineering,Virudhunagar,EEE,BC,175,115000,Private
+R.M.K. Engineering College,Thiruvallure,AI&DS,ST,175,125000,Private
+R.M.K. Engineering College,Thiruvallure,CSE,MBC,188,135000,Private
+R.M.K. Engineering College,Thiruvallure,IT,BCM,188.5,130000,Private
+R.M.K. Engineering College,Thiruvallure,Mechanical,BCM,105,100000,Private
+R.M.K. Engineering College,Thiruvallure,EEE,SC,115,120000,Private
+R.M.K. Engineering College,Thiruvallure,ECE,OC,155.6,115000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,CSE,BCM,188,150000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,IT,OC,160.5,125000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,AI & DS,BC,190.5,155000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,AI&ML,BCM,175.5,135000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,Mechanical,OC,90,100000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,Biomedical,BC,150,110000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,EEE,MBC,170,135000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,ECE,ST,125,115000,Private
+Rajalakshmi Institute of Technology,Thiruvallure,Bio-Techology,OC,177.5,135000,Private
+Velammal Engineering College,Chennai,Automobile,BC,142,100000,Private
+Velammal Engineering College,Chennai,Civil,MBC,166,125500,Private
+Velammal Engineering College,Chennai,CSE,ST,155,125000,Private
+Velammal Engineering College,Chennai,EEE,MBC,164,135000,Private
+Velammal Engineering College,Chennai,AI&DS,OC,190,145000,Private
+Velammal Engineering College,Chennai,ECE,SC,105.5,111000,Private
+Velammal Engineering College,Chennai,Mechanical,ST,90.5,90000,Private
+Velammal Engineering College,Chennai,IT,MBC,166,125000,Private
+Sriram Engineering College,Thiruvallure,AI&DS,BCM,195.5,145000,Private
+Sriram Engineering College,Thiruvallure,CSE,BCM,190.5,140000,Private
+Sriram Engineering College,Thiruvallure,AI&ML,SC,160,135000,Private
+Sriram Engineering College,Thiruvallure,Cyber Security,OC,175,125000,Private
+Sriram Engineering College,Thiruvallure,ECE,BCM,160.5,130000,Private
+Sriram Engineering College,Thiruvallure,EEE,OC,156.4,125000,Private
+Sriram Engineering College,Thiruvallure,Mechanical,BC,99.5,90000,Private
+TJS Engineering College,Thiruvallure,Civil,OC,92.5,75000,Private
+TJS Engineering College,Thiruvallure,CSE,ST,175,135000,Private
+TJS Engineering College,Thiruvallure,EEE,MBC,166,125000,Private
+TJS Engineering College,Thiruvallure,Mechanical,ST,99,85000,Private
+TJS Engineering College,Thiruvallure,ECE,MBC,165,125000,Private
+Indhira Institute of Engineering and Technology,Thiruvallure,AI&DS,MBC,190,145000,Private
+Indhira Institute of Engineering and Technology,Thiruvallure,CSE,BCM,185,135000,Private
+Indhira Institute of Engineering and Technology,Thiruvallure,ECE,OC,165,125000,Private
